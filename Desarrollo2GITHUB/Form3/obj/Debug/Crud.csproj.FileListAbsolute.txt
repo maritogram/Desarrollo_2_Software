@@ -1,0 +1,11 @@
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\bin\Debug\Form3.exe.config
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\bin\Debug\Form3.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\bin\Debug\Form3.pdb
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\obj\Debug\Crud.csproj.AssemblyReference.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\obj\Debug\Crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\obj\Debug\Form3.Form1.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\obj\Debug\Form3.Properties.Resources.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\obj\Debug\Crud.csproj.GenerateResource.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\obj\Debug\Form3.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\Desarrollo2Soft\Form3\obj\Debug\Form3.pdb

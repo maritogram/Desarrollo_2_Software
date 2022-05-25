@@ -1,0 +1,33 @@
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\bin\Debug\DeduccionesBienn.exe.config
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\bin\Debug\DeduccionesBienn.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\bin\Debug\DeduccionesBienn.pdb
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.AssemblyReference.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.SuggestedBindingRedirects.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.Properties.Resources.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.GenerateResource.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.CoreCompileInputs.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.pdb
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.DeduccionesBien.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\bin\Debug\DeduccionesBienn.exe.config
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\bin\Debug\DeduccionesBienn.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\bin\Debug\DeduccionesBienn.pdb
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.AssemblyReference.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.SuggestedBindingRedirects.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.DeduccionesBien.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.Properties.Resources.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.GenerateResource.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.CoreCompileInputs.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II (Teoria y Lab)\DesDeSoftII\DeduccionesBienn\obj\Debug\DeduccionesBienn.pdb
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\bin\Debug\DeduccionesBienn.exe.config
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\bin\Debug\DeduccionesBienn.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\bin\Debug\DeduccionesBienn.pdb
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.AssemblyReference.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.SuggestedBindingRedirects.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\obj\Debug\DeduccionesBienn.DeduccionesBien.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\obj\Debug\DeduccionesBienn.Properties.Resources.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.GenerateResource.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\obj\Debug\DeduccionesBienn.csproj.CoreCompileInputs.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\obj\Debug\DeduccionesBienn.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\DesarrolloTodoSirve2\DeduccionesBienn\obj\Debug\DeduccionesBienn.pdb
