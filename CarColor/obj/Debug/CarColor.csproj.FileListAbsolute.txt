@@ -1,0 +1,16 @@
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\bin\Debug\CarColor.exe.config
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\bin\Debug\CarColor.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\bin\Debug\CarColor.pdb
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.csproj.AssemblyReference.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.csproj.SuggestedBindingRedirects.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.CarroForm.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.Properties.Resources.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.csproj.GenerateResource.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.csproj.CoreCompileInputs.cache
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.exe
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.pdb
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.ColorForm.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.MarkForm.resources
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\estre\Desktop\INTEC\Trimestre #4\Desarrollo de Software II\Desarrollo2GITHUB\CarColor\obj\Debug\CarColor.csproj.CopyComplete
